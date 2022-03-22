@@ -1,0 +1,21 @@
+{
+  "name": "playwright-try",
+  "version": "1.0.0",
+  "description": "\"# playwright-try\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SQZ777/playwright-try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SQZ777/playwright-try/issues"
+  },
+  "homepage": "https://github.com/SQZ777/playwright-try#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.0"
+  }
+}
